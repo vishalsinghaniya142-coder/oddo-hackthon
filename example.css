@@ -1,0 +1,23 @@
+h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+input,
+textarea{
+    caret-color: blue;
+}
+
+input[type="checkbox"],
+input[type="radio"]{
+    accent-color: purple;
+}
+
+button:hover{
+    opacity: 0.9;
+    filter: brightness(1.1);
+}
+
+textarea{
+    word-spacing: 2px;
+}
